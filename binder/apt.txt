@@ -1,0 +1,10 @@
+gcc
+gfortran
+cmake
+git
+make
+nano
+python3
+vim
+ca-certificates
+m4
